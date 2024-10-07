@@ -1,1 +1,1 @@
-print("hola soy un mando muy bkn")
+print("hola soy un mando en main")
