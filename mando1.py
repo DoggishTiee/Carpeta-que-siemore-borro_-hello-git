@@ -1,1 +1,1 @@
-print("hola soy un mando en login")
+print("hola soy un mando en main")
